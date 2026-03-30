@@ -1,14 +1,18 @@
-﻿[
-    {
-        "avatar":  "avatars/0.png",
-        "name":  "chenwuOUO"
-    },
-    {
-        "avatar":  "avatars/1.png",
-        "name":  "HiRyuuYuki（ひりゅー）"
-    },
-    {
-        "avatar":  "avatars/2.png",
-        "name":  "たかすぎ"
-    }
+[
+  {
+    "name": "chenwuOUO",
+    "avatar": "avatars/0.png"
+  },
+  {
+    "name": "HiRyuuYuki（ひりゅー）",
+    "avatar": "avatars/1.png"
+  },
+  {
+    "name": "NiSeKOPPE",
+    "avatar": "avatars/2.png"
+  },
+  {
+    "name": "たかすぎ",
+    "avatar": "avatars/3.png"
+  }
 ]
